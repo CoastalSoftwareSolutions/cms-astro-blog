@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-This is my CMS test. Hello!
+Hello!
 
 AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
